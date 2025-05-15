@@ -6,3 +6,4 @@ echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
 echo "I am from batch 28"
+echo "I am learning branching"
